@@ -1,6 +1,6 @@
-# Standings
+## Standings
 
-## NCAA
+#### NCAA
 
 1. Brian (28-6)
 2. Chad (27-8)
@@ -8,7 +8,7 @@
 4. Brad (24-8)
 5. Mike (21-15)
 
-## NFL
+#### NFL
 
 1. Mike (9-3)
 2. Chad (8-3)
@@ -16,10 +16,9 @@
 4. Brian (4-8)
 5. Adam (4-7)
 
-# Drafts
+## Drafts
 
-## NCAA
-
+#### NCAA
 
 1. Chad - Alabama (3-0)
 2. Brian - Oklahoma (3-0)
@@ -82,7 +81,7 @@
 59. Brian - Wake Forest (3-0)
 60. Chad - Illinois (2-1)
 
-## NFL
+#### NFL
 
 1. Brian - Patriots (1-1)
 2. Adam - Packers (1-1)
@@ -114,3 +113,133 @@
 28. Mike - Rams (1-1)
 29. Adam - Jets (0-2)
 30. Brian - 49ers (0-2)
+
+## Adam
+
+##### NCAA
+5. Florida St. (0-1)
+6. Oklahoma St. (3-0)
+15. Texas (1-2)
+16. UCLA (2-1)
+25. Oregon (3-0)
+26. Northwestern (2-1)
+35. Texas A&M (2-1)
+36. Arkansas (1-1)
+45. Minnesota (3-0)
+46. Duke (3-0)
+55. Arizona (2-1)
+56. Ole Miss (2-1)
+
+##### NFL
+
+2. Packers (1-1)
+9. Giants (0-2)
+12. Buccaneers (1-0)
+19. Saints (0-2)
+22. Lions (2-0)
+29. Jets (0-2)
+
+## Brad
+
+##### NCAA
+
+4. Southern California (3-0)
+7. Clemson (3-0)
+14. Penn St. (3-0)
+17. West Virginia (2-1)
+24. Auburn (2-1)
+27. Florida (1-1)
+34. Georgia Tech (1-1)
+37. Texas Tech (2-0)
+44. Oregon St. (1-3)
+47. Maryland (2-0)
+54. Indiana (1-1)
+57. Vanderbilt (3-0)
+
+###### NFL
+
+5. Chiefs (2-0)
+6. Cowboys (1-1)
+15. Vikings (1-1)
+16. Titans (1-1)
+25. Jaguars (1-1)
+26. Chargers (0-2)
+
+## Brian
+
+##### NCAA
+
+2. Oklahoma (3-0)
+9. Washington (3-0)
+12. Michigan (3-0)
+19. Kansas St. (2-1)
+22. Miami (FL) (1-0)
+29. Washington St. (3-0)
+32. Pittsburgh (1-2)
+39. Nebraska (1-2)
+42. Kentucky (3-0)
+49. Mississippi St. (3-0)
+52. South Carolina (2-1)
+59. Wake Forest (3-0)
+
+##### NFL
+
+1. Patriots (1-1)
+10. Broncos (2-0)
+11. Cardinals (1-1)
+20. Colts (0-2)
+21. Bengals (0-2)
+30. 49ers (0-2)
+
+## Chad
+
+##### NCAA
+
+1. Alabama (3-0)
+10. Louisville (2-1)
+11. Virginia Tech (3-0)
+20. Georgia (3-0)
+21. TCU (3-0)
+30. Colorado (3-0)
+31. Iowa (3-0)
+40. Arizona St. (1-2)
+41. Michigan St. (2-0)
+50. Kansas (1-2)
+51. Missouri (1-2)
+60. Illinois (2-1)
+
+##### NFL
+
+4. Seahawks (1-1)
+7. Raiders (2-0)
+14. Redskins (1-1)
+17. Panthers (2-0)
+24. Bills (1-1)
+27. Dolphins (1-0)
+
+## Mike
+
+##### NCAA
+
+3. Ohio St. (2-1)
+8. Wisconsin (3-0)
+13. Stanford (1-2)
+18. LSU (2-1)
+23. Baylor (0-3)
+28. Utah (3-0)
+33. Tennessee (2-1)
+38. NC State (2-1)
+43. North Carolina (1-2)
+48. Iowa St. (2-1)
+53. Syracuse (2-1)
+58. Boston College (1-2)
+
+##### NFL
+
+3. Steelers (2-0)
+8. Falcons (2-0)
+13. Ravens (2-0)
+18. Texans (1-1)
+23. Eagles (1-1)
+28. Rams (1-1)
+
