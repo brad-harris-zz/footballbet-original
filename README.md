@@ -125,33 +125,33 @@
 ## Adam
 
 ##### NCAA
-5. Florida St. (0-1)
-6. Oklahoma St. (3-0)
-15. Texas (1-2)
-16. UCLA (2-1)
-25. Oregon (3-0)
-26. Northwestern (2-1)
-35. Texas A&M (2-1)
-36. Arkansas (1-1)
-45. Minnesota (3-0)
-46. Duke (3-0)
-55. Arizona (2-1)
-56. Ole Miss (2-1)
+1. Florida St. (0-1)
+2. Oklahoma St. (3-0)
+3. Texas (1-2)
+4. UCLA (2-1)
+5. Oregon (3-0)
+6. Northwestern (2-1)
+7. Texas A&M (2-1)
+8. Arkansas (1-1)
+9. Minnesota (3-0)
+10. Duke (3-0)
+11. Arizona (2-1)
+12. Ole Miss (2-1)
 
 ##### NFL
 
-2. Packers (1-1)
-9. Giants (0-2)
-12. Buccaneers (1-0)
-19. Saints (0-2)
-22. Lions (2-0)
-29. Jets (0-2)
+1. Packers (1-1)
+2. Giants (0-2)
+3. Buccaneers (1-0)
+4. Saints (0-2)
+5. Lions (2-0)
+6. Jets (0-2)
 
 ## Brad
 
 ##### NCAA
 
-4. Southern California (3-0)
+1. Southern California (3-0)
 7. Clemson (3-0)
 14. Penn St. (3-0)
 17. West Virginia (2-1)
@@ -166,7 +166,7 @@
 
 ###### NFL
 
-5. Chiefs (2-0)
+1. Chiefs (2-0)
 6. Cowboys (1-1)
 15. Vikings (1-1)
 16. Titans (1-1)
@@ -177,7 +177,7 @@
 
 ##### NCAA
 
-2. Oklahoma (3-0)
+1. Oklahoma (3-0)
 9. Washington (3-0)
 12. Michigan (3-0)
 19. Kansas St. (2-1)
@@ -218,7 +218,7 @@
 
 ##### NFL
 
-4. Seahawks (1-1)
+1. Seahawks (1-1)
 7. Raiders (2-0)
 14. Redskins (1-1)
 17. Panthers (2-0)
@@ -229,7 +229,7 @@
 
 ##### NCAA
 
-3. Ohio St. (2-1)
+1. Ohio St. (2-1)
 8. Wisconsin (3-0)
 13. Stanford (1-2)
 18. LSU (2-1)
@@ -244,7 +244,7 @@
 
 ##### NFL
 
-3. Steelers (2-0)
+1. Steelers (2-0)
 8. Falcons (2-0)
 13. Ravens (2-0)
 18. Texans (1-1)
