@@ -2,19 +2,27 @@
 
 #### NCAA
 
-1. [Brian (28-6)](#brian)
-2. [Chad (27-8)](#chad)
-3. [Adam (24-9)](#adam)
-4. [Brad (24-8)](#brad)
-5. [Mike (21-15)](#mike)
+1. [Brian](#brian) (28-6)
+2. [Chad](#chad) (27-8)
+3. [Adam](#adam) (24-9)
+4. [Brad](#brad) (24-8)
+5. [Mike](#mike) (21-15)
 
 #### NFL
 
-1. [Mike (9-3)](#mike)
-2. [Chad (8-3)](#chad)
-3. [Brad (6-6)](#brad)
-4. [Brian (4-8)](#brian)
-5. [Adam (4-7)](#adam)
+1. [Mike](#mike) (9-3)
+2. [Chad](#chad) (8-3)
+3. [Brad](#brad) (6-6)
+4. [Brian](#brian) (4-8)
+5. [Adam](#adam) (4-7)
+
+#### Overall
+
+1. [Chad](#chad) (35-11)
+2. [Brian](#brian) (32-14)
+3. [Brad](#brad) (30-14)
+4. [Mike](#mike) (30-18)
+5. [Adam](#adam) (28-16)
 
 ## Drafts
 
